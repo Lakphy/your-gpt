@@ -60,6 +60,7 @@ function handleSetPropmt(e: InputEvent) {
         :list="[
           GPTModelName.GPT_3_5_TURBO,
           GPTModelName.GPT_3_5_TURBO_16K,
+          GPTModelName.GPT_4_TURBO_16K,
           GPTModelName.GPT_4,
           GPTModelName.GPT_4_32K
         ]"
